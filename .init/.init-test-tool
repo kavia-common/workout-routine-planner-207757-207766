@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/workout-routine-planner-207757-207766/workout_backend"
+}
